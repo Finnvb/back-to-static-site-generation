@@ -1,0 +1,39 @@
+:root {
+    --dark: #101010;
+    --light: #F3F3F3;
+    --grey: #c7c7c7;
+    --red: #8c0500;
+    --redLight: #da2a2a;
+
+}
+
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+
+@font-face {
+    font-family: 'Austral Sans';
+    src: url('/fonts/Austral-Sans_Stamp-Regular.ttf') format('woff');
+
+}
+
+body{
+	font-family: 'Austral Sans', sans-serif;
+	color: var(--light);
+    /* overflow: hidden; */
+
+    background-image: url("/background.jpg");
+    height: 100vh;
+    /* width: 100vw; */
+    background-repeat: repeat;
+    background-position: center; 
+   background-size: cover;
+   overflow-x: hidden;
+    
+}
+
