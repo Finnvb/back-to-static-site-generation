@@ -1,38 +1,87 @@
-# create-svelte
+# Ilojo Bar SSG
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+![afbeelding](https://user-images.githubusercontent.com/26089533/207039427-5166df7c-74fb-4e24-a678-31a1b33f0dab.png)
 
-## Creating a project
+Met dit project wordt de Ilojo Bar Website statisch gegenereerd. Dit zorgt voor een snellere performance.
 
-If you're seeing this, you've probably already done this step. Congrats!
+[Live](https://back-to-static-site-generation-five.vercel.app/)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## Inhoudsopgave
+  * [Kenmerken](#kenmerken)
+  * [Installatie](#installatie)
+  * [Gebruik](#gebruik)
+  * [Bronnen](#bronnen)
+  * [Licentie](#licentie)
 
-# create a new project in my-app
-npm create svelte@latest my-app
+
+
+## Kenmerken
+
+Dit project is gemaakt met SvelteKit en Prismic.io. 
+
+Tools
+*SvelteKit
+Prismic.io
+
+
+## Installatie
+
+## Gebruik
+
+## Bronnen
+
+## Licentie
+
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+This work is licensed under [GNU GPLv3](./LICENSE).# Titel
+<!-- Geef je project een titel en schrijf in één zin wat het is -->
+
+## Inhoudsopgave
+
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Installatie](#installatie)
+  * [Gebruik](#gebruik)
+  * [Bronnen](#bronnen)
+  * [Licentie](#licentie)
+
+## Beschrijving
+<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+<!-- Voeg een mooie poster visual toe 📸 -->
+<!-- Voeg een link toe naar Github Pages 🌐-->
+
+## Kenmerken
+<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+
+## Installatie
+
+```
+# Cloning the repository
+git clone git@github.com:Finnvb/back-to-static-site-generation.git
+
+# Moving to the folder
+cd back-to-static-site-generation
+
+# Install NPM packages
+npm install
+
+# Run local server
+npm run start
+
+
+
 ```
 
-## Developing
+## Gebruik
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Bronnen
+* [Sveltekit](https://kit.svelte.dev/)
+* [Prismic](https://prismic.io/)
+* [Svelte static adapter](https://www.npmjs.com/package/@sveltejs/adapter-static)
 
-```bash
-npm run dev
+## Licentie
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+This work is licensed under [GNU GPLv3](./LICENSE).
