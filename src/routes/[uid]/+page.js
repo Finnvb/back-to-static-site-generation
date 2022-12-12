@@ -1,4 +1,4 @@
-import createClient from '$lib/prismicClient'
+import createClient from '$lib/vendors/prismicClient'
 
 export async function load({ fetch, request, params }) {
 
