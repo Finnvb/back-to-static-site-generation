@@ -20,22 +20,8 @@ Met dit project wordt de Ilojo Bar Website statisch gegenereerd. Dit zorgt voor 
 Dit project is gemaakt met SvelteKit en Prismic.io. 
 
 Tools
-*SvelteKit
-Prismic.io
-
-
-## Installatie
-
-## Gebruik
-
-## Bronnen
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+* SvelteKit
+* Prismic.io
 
 ## Inhoudsopgave
 
@@ -45,14 +31,6 @@ This work is licensed under [GNU GPLv3](./LICENSE).# Titel
   * [Gebruik](#gebruik)
   * [Bronnen](#bronnen)
   * [Licentie](#licentie)
-
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 ## Installatie
 
@@ -74,6 +52,7 @@ npm run start
 ```
 
 ## Gebruik
+
 
 ## Bronnen
 * [Sveltekit](https://kit.svelte.dev/)
