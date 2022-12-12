@@ -6,7 +6,7 @@
 
 	const { document } = data;
 
-	console.log(document)
+	console.log(document) 
 </script>
 
 <svelte:head>
