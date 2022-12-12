@@ -44,7 +44,7 @@ npm run start
 ```
 
 ## Gebruik
-
+In de wiki kun je de resultaten zien van SSR en SSG.
 
 ## Bronnen
 * [Sveltekit](https://kit.svelte.dev/)
