@@ -17,7 +17,7 @@ Met dit project wordt de Ilojo Bar Website statisch gegenereerd. Dit zorgt voor 
 
 ## Kenmerken
 
-Dit project is gemaakt met SvelteKit en Prismic.io. 
+Dit project is gemaakt met SvelteKit en Prismic.io. Zodra je je code pusht naar de main branch op github, voert Vercel automatisch standaard een nieuwe deployment uit en begint dus met builden. Ook wordt de link naar de website automatisch geplaatst in het stukje about door Vercel.
 
 Tools
 * SvelteKit
