@@ -4,7 +4,7 @@
 
 Met dit project wordt de Ilojo Bar Website statisch gegenereerd. Dit zorgt voor een betere performance.
 
-[Live](https://back-to-static-site-generation-five.vercel.app/)
+[Live](https://back-to-static-site-generation-8as8yfzao-finnvb.vercel.app/)
 
 ## Inhoudsopgave
   * [Kenmerken](#kenmerken)
