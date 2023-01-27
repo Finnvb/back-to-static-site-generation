@@ -22,6 +22,7 @@ Dit project is gemaakt met SvelteKit en Prismic.io. Zodra je je code pusht naar 
 Tools
 * SvelteKit
 * Prismic.io
+* Vercel
 
 
 ## Installatie
